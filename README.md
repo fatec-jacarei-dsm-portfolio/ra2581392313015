@@ -7,4 +7,4 @@
 
 ### Portfólio Online  
 🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392313015/#/)
-🎤 [Pitch de Apresentação (vídeo)](https://fatecspgov-my.sharepoint.com/:v:/g/personal/luis_moraes2_fatec_sp_gov_br/EbkG9ZYSIsZDnZvDEPbE2rIBcGW1mXohwq1rBgycoBZcnw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cFY9ef)
+🎤 [Pitch de Apresentação (vídeo)](https://youtu.be/yM_r0oIKE0c)
