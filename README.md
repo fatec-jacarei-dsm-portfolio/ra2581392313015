@@ -1,7 +1,7 @@
 # Portfólio de Projetos - Fatec Jacareí
 ### Aluno: Luis Eduardo da Silva Moraes
 ### Curso: Desenvolvimento de Software Multiplataforma
-### Turma: 5o Semestre de 2025
+### Turma: 6o Semestre de 2025
  
 ---
 
